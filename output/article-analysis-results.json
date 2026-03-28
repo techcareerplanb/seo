@@ -1,0 +1,281 @@
+{
+  "url": "https://careerplanb.co/iiit-hyderabad-vs-iit-hyderabad-2025/",
+  "analyzed_at": "2026-03-20T15:30:44.901491",
+  "word_count": 645,
+  "primary_keyword": "IIIT Hyderabad vs IIT Hyderabad",
+  "search_intent": {
+    "keyword": "IIIT Hyderabad vs IIT Hyderabad",
+    "primary_intent": "commercial_investigation",
+    "secondary_intent": null,
+    "confidence": {
+      "informational": 0.0,
+      "navigational": 0.0,
+      "transactional": 0.0,
+      "commercial_investigation": 100.0
+    },
+    "signals_detected": {
+      "commercial": [
+        "Keyword contains 'vs'"
+      ]
+    },
+    "recommendations": [
+      "Create comparison and review content",
+      "Include pros/cons and alternatives",
+      "Add detailed feature breakdowns",
+      "Include data tables and comparisons",
+      "Show 'best for' categories",
+      "Help users make informed decisions"
+    ]
+  },
+  "keyword_analysis": {
+    "word_count": 645,
+    "primary_keyword": {
+      "keyword": "IIIT Hyderabad vs IIT Hyderabad",
+      "exact_matches": 1,
+      "total_occurrences": 11,
+      "density": 1.71,
+      "target_density": 1.5,
+      "density_status": "optimal",
+      "positions": [
+        0
+      ],
+      "critical_placements": {
+        "in_first_100_words": true,
+        "in_conclusion": false,
+        "in_h1": false,
+        "in_h2_headings": "0/0",
+        "h2_keyword_ratio": 0
+      },
+      "section_distribution": [
+        {
+          "section_index": 0,
+          "section_type": "intro",
+          "header": "",
+          "keyword_count": 1,
+          "word_count": 645,
+          "density": 0.16
+        }
+      ]
+    },
+    "secondary_keywords": [
+      {
+        "exact_matches": 1,
+        "total_occurrences": 5,
+        "density": 0.78,
+        "target_density": 0.75,
+        "density_status": "optimal",
+        "positions": [
+          3261
+        ],
+        "critical_placements": {
+          "in_first_100_words": false,
+          "in_conclusion": false,
+          "in_h1": false,
+          "in_h2_headings": "0/0",
+          "h2_keyword_ratio": 0
+        },
+        "section_distribution": [
+          {
+            "section_index": 0,
+            "section_type": "intro",
+            "header": "",
+            "keyword_count": 1,
+            "word_count": 645,
+            "density": 0.16
+          }
+        ]
+      },
+      {
+        "exact_matches": 8,
+        "total_occurrences": 8,
+        "density": 1.24,
+        "target_density": 0.75,
+        "density_status": "too_high",
+        "positions": [
+          451,
+          1566,
+          2473,
+          2745,
+          3636,
+          4236,
+          4258,
+          4367
+        ],
+        "critical_placements": {
+          "in_first_100_words": true,
+          "in_conclusion": false,
+          "in_h1": false,
+          "in_h2_headings": "0/0",
+          "h2_keyword_ratio": 0
+        },
+        "section_distribution": [
+          {
+            "section_index": 0,
+            "section_type": "intro",
+            "header": "",
+            "keyword_count": 8,
+            "word_count": 645,
+            "density": 1.24
+          }
+        ]
+      },
+      {
+        "exact_matches": 0,
+        "total_occurrences": 6,
+        "density": 0.93,
+        "target_density": 0.75,
+        "density_status": "slightly_high",
+        "positions": [],
+        "critical_placements": {
+          "in_first_100_words": false,
+          "in_conclusion": false,
+          "in_h1": false,
+          "in_h2_headings": "0/0",
+          "h2_keyword_ratio": 0
+        },
+        "section_distribution": [
+          {
+            "section_index": 0,
+            "section_type": "intro",
+            "header": "",
+            "keyword_count": 0,
+            "word_count": 645,
+            "density": 0.0
+          }
+        ]
+      }
+    ],
+    "keyword_stuffing": {
+      "risk_level": "none",
+      "warnings": [
+        "Paragraph 1 has very high keyword density (7.1%)"
+      ],
+      "safe": true
+    },
+    "topic_clusters": {
+      "clusters_found": 0,
+      "note": "Insufficient sections for clustering"
+    },
+    "distribution_heatmap": [
+      {
+        "section": "Section 1",
+        "keyword_count": 1,
+        "heat_level": 1,
+        "density": 0.16
+      }
+    ],
+    "lsi_keywords": [
+      "research",
+      "engineering",
+      "campus",
+      "placements",
+      "nirf",
+      "innovation",
+      "tech",
+      "technology",
+      "academic",
+      "score",
+      "iiit hyderabad",
+      "iit hyderabad",
+      "nirf 2025",
+      "while iiit",
+      "while iiit hyderabad"
+    ],
+    "recommendations": [
+      "\u26a0\ufe0f Primary keyword missing from H1 headline - include it in the title",
+      "\u2139\ufe0f Primary keyword appears in only 0/0 H2 headings. Aim for 2-3 H2s with keyword variations.",
+      "\u2139\ufe0f Consider mentioning primary keyword in the conclusion for better optimization"
+    ]
+  },
+  "readability": {
+    "overall_score": 37,
+    "grade": "F (Poor)",
+    "reading_level": 17.1,
+    "readability_metrics": {
+      "flesch_reading_ease": 4.6,
+      "flesch_kincaid_grade": 17.1,
+      "gunning_fog": 20.5,
+      "smog_index": 17.2,
+      "coleman_liau_index": 21.1,
+      "automated_readability_index": 19.6,
+      "dale_chall_readability": 15.8,
+      "syllable_count": 1384,
+      "lexicon_count": 637,
+      "sentence_count": 35,
+      "char_count": 5063,
+      "letter_count": 4230,
+      "polysyllable_count": 213
+    },
+    "structure_analysis": {
+      "total_sentences": 37,
+      "avg_sentence_length": 17.6,
+      "shortest_sentence": 1,
+      "longest_sentence": 75,
+      "sentence_length_variance": 167.5,
+      "total_paragraphs": 46,
+      "avg_sentences_per_paragraph": 1.4,
+      "total_words": 645,
+      "avg_word_length": 6.8,
+      "long_sentences": 9,
+      "very_long_sentences": 1
+    },
+    "complexity_analysis": {
+      "transition_word_count": 0,
+      "transition_words_per_100": 0.0,
+      "passive_sentence_count": 2,
+      "passive_sentence_ratio": 5.4,
+      "complex_word_count": 248,
+      "complex_word_ratio": 38.4
+    },
+    "recommendations": [
+      "\u26a0\ufe0f Reading level is too high (Grade 17.1). Target is 8-10. Simplify sentences and use more common words.",
+      "\u26a0\ufe0f Content is difficult to read (Flesch score: 4.6). Break up complex sentences and use simpler words.",
+      "\u26a0\ufe0f 1 sentences are very long (35+ words). These should be split into multiple sentences.",
+      "\u2139\ufe0f Few transition words detected. Add words like 'however', 'therefore', 'additionally' to improve flow between ideas.",
+      "\u2139\ufe0f High percentage of complex words (38.4%). Consider simpler alternatives where appropriate."
+    ],
+    "status": {
+      "grade_level_status": "too_complex",
+      "ease_status": "difficult",
+      "sentence_length_status": "good",
+      "overall_assessment": "needs_improvement"
+    }
+  },
+  "seo_quality": {
+    "overall_score": 70.5,
+    "grade": "C (Average)",
+    "category_scores": {
+      "content": 65,
+      "keyword_optimization": 75,
+      "meta_elements": 75,
+      "structure": 55,
+      "links": 65,
+      "readability": 95
+    },
+    "critical_issues": [
+      "Content is too short (645 words). Minimum is 2000 words.",
+      "Primary keyword 'IIIT Hyderabad vs IIT Hyderabad' missing from H1 heading",
+      "Missing H1 heading"
+    ],
+    "warnings": [
+      "Meta title too long (83 chars). Target is 50-60 chars.",
+      "Meta description too short (132 chars). Target is 150-160 chars.",
+      "Too few H2 sections (0). Add more main sections (target: 6).",
+      "Too few internal links (0). Add 3 more (target: 5).",
+      "Too few external links (0). Add authoritative sources (target: 3)."
+    ],
+    "suggestions": [
+      "Paragraphs are very short (avg 14 words). Add more detail where appropriate.",
+      "Secondary keywords not found: campus infrastructure",
+      "No lists found. Use bullet points or numbered lists to improve scannability."
+    ],
+    "publishing_ready": false,
+    "details": {
+      "word_count": 645,
+      "h2_count": 0,
+      "has_h1": false,
+      "keyword_in_h1": false,
+      "keyword_in_first_100": true
+    }
+  }
+}

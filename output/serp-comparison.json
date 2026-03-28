@@ -1,0 +1,113 @@
+{
+  "keyword": "IIIT Hyderabad vs IIT Hyderabad",
+  "competitors_analyzed": 9,
+  "your_word_count": 645,
+  "statistics": {
+    "min": 11,
+    "max": 3652,
+    "mean": 953,
+    "median": 1032,
+    "mode": 1032,
+    "std_dev": 1183,
+    "percentile_25": 16,
+    "percentile_75": 1374
+  },
+  "competitor_lengths": [
+    {
+      "position": 2,
+      "url": "https://www.shiksha.com/compare-iit-hyderabad-vs-iiit-hyderabad-32726-53885",
+      "domain": "www.shiksha.com",
+      "title": "IIT Hyderabad Vs IIIT Hyderabad: Compare Ranking, Fees, ...",
+      "word_count": 1032
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/Btechtards/comments/1hxpart/iit_h_vs_iiit_h_placements/",
+      "domain": "www.reddit.com",
+      "title": "IIT H vs IIIT H PLACEMENTS : r/Btechtards",
+      "word_count": 18
+    },
+    {
+      "position": 4,
+      "url": "https://www.selectyouruniversity.com/blog/iit-hyderabad-vs-iiit-hyderabad",
+      "domain": "www.selectyouruniversity.com",
+      "title": "IIT Hyderabad vs IIIT Hyderabad 2026: Courses, Fees, ...",
+      "word_count": 1305
+    },
+    {
+      "position": 5,
+      "url": "https://gurus.rediff.com/question/qdtl/career/got-air-846-jee-mains-2246-jee-advanced-inclined-towards/5176029",
+      "domain": "gurus.rediff.com",
+      "title": "Dilemma of AIR 846: IIT (other branch) or IIIT Hyderabad ...",
+      "word_count": 3652
+    },
+    {
+      "position": 6,
+      "url": "https://careerplanb.co/iiit-hyderabad-vs-iit-hyderabad-2025/",
+      "domain": "careerplanb.co",
+      "title": "IIIT Hyderabad vs IIT Hyderabad 2025: Which Is Better?",
+      "word_count": 1085
+    },
+    {
+      "position": 7,
+      "url": "https://collegedunia.com/college-compare/iit-hyderabad-vs-iiit-hyderabad-2049-2049",
+      "domain": "collegedunia.com",
+      "title": "IIT Hyderabad vs IIIT Hyderabad",
+      "word_count": 13
+    },
+    {
+      "position": 8,
+      "url": "https://www.iiit.ac.in/",
+      "domain": "www.iiit.ac.in",
+      "title": "IIIT Hyderabad: Home",
+      "word_count": 11
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=APx926zd16o",
+      "domain": "www.youtube.com",
+      "title": "Is IIIT Hyderabad Better Than IITs? | Which is better IIT or IIIT ...",
+      "word_count": 20
+    },
+    {
+      "position": 10,
+      "url": "https://www.iquanta.in/blog/difference-between-iits-and-iiits/",
+      "domain": "www.iquanta.in",
+      "title": "Difference Between IITs and IIITs",
+      "word_count": 1442
+    }
+  ],
+  "your_position": "Between position 4 and 5 competitors",
+  "recommendation": {
+    "recommended_min": 1032,
+    "recommended_optimal": 1374,
+    "recommended_max": 1648,
+    "your_status": "too_short",
+    "message": "Your content is significantly shorter than competitors. Add 729 more words.",
+    "reasoning": "Based on median (1032) and 75th percentile (1374) of top 10 results"
+  },
+  "competitive_analysis": {
+    "total_competitors": 9,
+    "length_distribution": {
+      "under_1000": 4,
+      "1000_1500": 4,
+      "1500_2000": 0,
+      "2000_2500": 0,
+      "2500_3000": 0,
+      "3000_plus": 1
+    },
+    "comparison": {
+      "shorter_than_you": 4,
+      "longer_than_you": 5,
+      "percentile": 44
+    },
+    "gap_to_median": {
+      "words": 387,
+      "percentage": 60
+    },
+    "gap_to_75th_percentile": {
+      "words": 729,
+      "percentage": 113
+    }
+  }
+}
